@@ -1,4 +1,4 @@
-### AOPA BOM DIA! Meu nome é Gabriel, mas quando eu criei a conta eu coloquei Sarbriel por motivos desconhecidos 👋
+### AOPA BOM DIA! Meu nome é Gabriel seja bem-vinde ao meu perfil :)
 
 - 🔭 Atualmente trabalhando em ✨nada✨
 - 🌱 Atualmente aprendendo o que fazer da vida tipo html ou c++??
