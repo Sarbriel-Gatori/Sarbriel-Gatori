@@ -1,7 +1,7 @@
 ### AOPA BOM DIA! Meu nome é Gabriel e seja bem-vinde ao meu perfil :)
 
 - 🔭 Atualmente trabalhando em ✨nada✨
-- 🌱 Atualmente aprendendo o que fazer da vida tipo html ou c++??
+- 🌱 Atualmente aprendendo desenvolvimento backend e ciência de dados
 - 💬 Ask me about my trex shirt
 - 📫 Como entrar em contato: grita bem alto 
 - 😄 Pronomes: ele/dele
