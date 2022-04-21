@@ -1,9 +1,9 @@
 ### AOPA BOM DIA! Meu nome é Gabriel e seja bem-vinde ao meu perfil :)
 
 - 🔭 Atualmente trabalhando em ✨nada✨
-- 🌱 Atualmente aprendendo desenvolvimento backend e ciência de dados
+- 🌱 Atualmente aprendendo ciência de dados
 - 💬 Ask me about my trex shirt
-- 📫 Como entrar em contato: grita bem alto 
+- 📫 Como entrar em contato: gabriel.sartorirangel@gmail.com ou +55(65)98106-3903
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Eu sei montar o cubo mágico 😎
 
