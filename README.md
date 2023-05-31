@@ -1,7 +1,7 @@
 ### AOPA BOM DIA! Meu nome é Gabriel e seja bem-vinde ao meu perfil :)
 
-- 🔭 Atualmente trabalhando em ✨nada✨
-- 🌱 Atualmente estudando ciência da computação na UFSC
+- 🌱 Atualmente estudando ciência da computação na Universidade Federal de Santa Catarina (UFSC)
+- 🔭 Atualmente trabalhando no projeto [MASTER](http://www.master-project-h2020.eu/) pela UFSC.
 - 💬 Ask me about my trex shirt
 - 📫 Como entrar em contato: gabriel.sartorirangel@gmail.com ou +55(65)98106-3903
 - 😄 Pronomes: ele/dele
